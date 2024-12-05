@@ -1,0 +1,10 @@
+D:\btap\Baitap04\Baitap04\obj\Debug\Baitap04.csproj.AssemblyReference.cache
+D:\btap\Baitap04\Baitap04\obj\Debug\Baitap04.Form1.resources
+D:\btap\Baitap04\Baitap04\obj\Debug\Baitap04.Form2.resources
+D:\btap\Baitap04\Baitap04\obj\Debug\Baitap04.csproj.GenerateResource.cache
+D:\btap\Baitap04\Baitap04\obj\Debug\Baitap04.csproj.CoreCompileInputs.cache
+D:\btap\Baitap04\Baitap04\bin\Debug\Baitap04.exe.config
+D:\btap\Baitap04\Baitap04\bin\Debug\Baitap04.exe
+D:\btap\Baitap04\Baitap04\bin\Debug\Baitap04.pdb
+D:\btap\Baitap04\Baitap04\obj\Debug\Baitap04.exe
+D:\btap\Baitap04\Baitap04\obj\Debug\Baitap04.pdb
